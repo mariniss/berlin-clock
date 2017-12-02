@@ -1,0 +1,14 @@
+.clock_disabled {
+    opacity: 0.3;
+}
+.clock_enabled {
+    opacity: 1.0;
+}
+
+.minutesPerFive {
+   margin-left: 2px;
+}
+
+.minutesPerFiveLast {
+   margin-left: 20px;
+}
